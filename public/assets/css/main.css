@@ -1,0 +1,17 @@
+.table-data__info__stock__not{
+    background-color:red !important; 
+    width:50%; 
+    color:#fff; 
+    border-radius:2rem;
+    margin-right: 15rem;
+    text-align: center;
+}
+
+.table-data__info__stock__have{
+    background-color:rgba(235, 235, 235, 0.315); 
+    width:50%; 
+    color:#000000; 
+    border-radius:2rem;
+    margin-right: 15rem;
+    text-align: center;
+}
